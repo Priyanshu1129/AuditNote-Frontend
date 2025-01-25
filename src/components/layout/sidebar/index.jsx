@@ -51,7 +51,7 @@ const Sidebar = ({ collapsed, setCollapsed }) => {
         bottom: 0,
         zIndex: 1,
         scrollbarWidth: "thin",
-        background: "#1A1A1D",
+        // background: "#1A1A1D",
         // scrollbarColor: "unset",
       }}
       theme="dark"
@@ -91,7 +91,7 @@ const Sidebar = ({ collapsed, setCollapsed }) => {
           paddingRight: "12px",
           marginTop: "8px",
           fontSize: "0.90rem",
-          background: "#1A1A1D",
+          // background: "#1A1A1D",
         }}
         theme="dark" // Ensures proper base styling
         title="title"
